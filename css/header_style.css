@@ -1,0 +1,49 @@
+/* header styling */
+
+
+/* ----------------------------------------------------------------------------
+
+COLOR PALETTE
+
+MAIN - dark green
+#06501f     // main
+#467154     // lighten + muted (on hover)
+#00260D     // darken (active)
+
+
+SECONDARY - light green
+#C4DA42
+
+ACCENT - light orange-yellow
+#FDB649 
+
+SUN GRADIENT 1 - bright neon yellow
+#FFFD02
+
+SUN GRADIENT 2 - yellow-orange
+#FFA700
+
+FOOTER GRADIENT
+background-image: -moz-linear-gradient(rgb(217,61,64) 0%, rgb(196,217,64) 100%);
+background-image: -webkit-linear-gradient(rgb(217,61,64) 0%, rgb(196,217,64) 100%);
+background-image: -ms-linear-gradient(rgb(217,61,64) 0%, rgb(196,217,64) 100%);
+
+---------------------------------------------------------------------------- */
+
+.navbar {
+  overflow: hidden;
+  background-color: #06501f;
+  font-size: 1.2em;
+}
+
+.navbar > li {
+  color: #fff;
+}
+.navbar-brand {
+
+}
+
+/* headerNav styling END */
+
+
+

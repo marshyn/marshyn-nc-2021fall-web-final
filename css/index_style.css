@@ -1,0 +1,14 @@
+h2, h3, h4, h7 { /* subheading 1 styling */
+	font-size: 180%;
+	font-weight: 500;
+}
+
+h5, h6, h8, h9, h10 {
+	font-size: 140%; /* subheading 2 styling */
+	font-weight: 400;
+}
+
+.card-img-top {
+	max-width: 300px;
+	border-radius: 6px;
+}

@@ -1,0 +1,11 @@
+/*
+importing all reused CSS files into one file, so there
+is only one line for importing the CSS within the HTML
+*/
+
+@import url("typography.css");			/* font consistency */
+@import url("disclaimer_style.css");	/* disclaimer banner styling */
+@import url("header_style.css");	/* navbar styling */
+@import url("layout_style.css");	/* layout styling */
+@import url("footer_style.css");	/* footer styling */
+@import url("media_style.css");		/* all images, icons, media, etc. */

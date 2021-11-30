@@ -1,0 +1,18 @@
+/* disclaimer banner styling */
+
+#disclaimer {
+	text-align: center;
+	font-weight: 600;
+	align-content: center;
+	background-color: #FFFD02;	/* bright yellow */
+	width: 100%;
+	padding: .8%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+#disclaimer::before { /* puts the actual text content */
+	content: "This is NOT the website for Sunnyside Cafe. This is a mock website for a school project.";
+}
+
+/* disclaimer banner styling END */

@@ -1,0 +1,117 @@
+/*
+all images, icons, and other media used
+images are from sunnysidecafesrq.com unless stated otherwise
+*/
+
+#logo {
+	content: url(../img/logo.png);
+	max-width: 10%;
+}
+
+/* ------------------------ food images ------------------------ */
+#bakery {
+	content: url(../img/bakery.jpg);
+}
+
+#chicken {
+	content: url(../img/chicken.jpg);
+}
+
+#chickenbreast {
+	content: url(../img/chickenbreast.jpg);
+}
+
+#coffee {
+	content: url(../img/coffee.jpg);
+}
+
+#lox {
+	content: url(../img/lox.jpg);
+}
+
+#mahitaco {
+	content: url(../img/mahitaco.jpg);
+}
+
+#pulledporksandwich {
+	content: url(../img/pulledporksandwich.jpg);
+}
+
+#salad {
+	content: url(../img/salad.jpg);
+}
+
+#stuffedcroissant {
+	content: url(../img/stuffedcroissant.jpg);
+}
+
+
+/* ------------------------ people images ------------------------ */
+#eva {
+	content: url(../img/eva2.jpg);
+}
+
+#eva-serve {
+	content: url(../img/eva1.jpg);
+}
+
+#tamas {
+	content: url(../img/tamas1.jpg);
+}
+
+#tamas-cook {
+	content: url(../img/tamas2.jpg);
+}
+
+/* ------------------------ icons ------------------------ */
+/* vector icons are from FontAwesome */
+#phone-icon {
+	content: url(../img/icons/phone/phone.svg);
+	margin: 1%;
+	
+}
+
+#phone-icon-alt {
+	content: url(../img/icons/phone/phone-alt.svg);
+	margin: 1%;
+}
+
+#phone-icon-sq {
+	content: url(../img/icons/phone/phone-square.svg);
+	margin: 1%;
+}
+
+#phone-icon-sq-alt {
+	content: url(../img/icons/phone/phone-square-alt.svg);
+	margin: 1%;
+}
+
+#facebook-icon {
+	content: url(../img/icons/facebook/facebook.svg);
+	margin: 1%;
+}
+
+#facebook-icon-f {
+	content: url(../img/icons/facebook/facebook-f.svg);
+	margin: 1%;
+}
+
+#facebook-icon-sq {
+	content: url(../img/icons/facebook/facebook-square.svg);
+	margin: 1%;
+}
+
+#instagram-icon {
+	content: url(../img/icons/instagram/instagram.svg);
+	margin: 1%;
+}
+
+#instagram-icon-sq {
+	content: url(../img/icons/instagram/instagram-square.svg);
+	margin: 1%;
+}
+
+/* ------------------------ misc images ------------------------ */
+#wall {
+	content: url(../img/wall.jpg);
+}

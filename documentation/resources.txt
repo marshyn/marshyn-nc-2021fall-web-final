@@ -1,0 +1,64 @@
+resources.txt - Final: Sunny Cafe - Marshall Huynh
+
+------------ BOOTSTRAP ------------
+
+Teaching Myself Bootstrap
+https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
+
+Carousel/slideshow with Bootstrap
+https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+
+Bootstrap website template (topnav/navbar asset)
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_marketing2&stacked=h
+
+Bootstrap website template ("well" div class)
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_social&stacked=h
+
+Bootstrap and navs/tabs
+https://getbootstrap.com/docs/5.0/components/navs-tabs/
+
+Bootstrap accordions
+https://www.w3schools.com/bootstrap/bootstrap_collapse.asp
+
+Boostrap responsive embeds
+https://getbootstrap.com/docs/4.0/utilities/embed/
+
+Bootstrap and cards
+https://getbootstrap.com/docs/4.0/components/card/#images
+https://getbootstrap.com/docs/4.0/components/card/#using-grid-markup
+
+Bootstrap and buttons
+https://getbootstrap.com/docs/5.0/components/buttons/#toggle-states
+
+Bootstrap and forms
+https://getbootstrap.com/docs/4.0/components/forms/
+
+------------ OTHER RESOURCES ------------
+
+Media Queries (responsive formatting for different screen sizes)
+https://www.w3schools.com/css/css3_mediaqueries_ex.asp
+
+icons are from FontAwesome
+Can be found here:
+https://faicons.com/
+Or here (there are various versions):
+https://fontawesome.com/
+
+Include Many HTML Snippets
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_html_include_2
+
+Flexbox
+https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox
+
+Top navigation with dropdown
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dropdown_navbar
+
+content property in CSS
+https://www.w3schools.com/cssref/pr_gen_content.asp
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss_content
+
+font-weight property in CSS
+https://www.w3schools.com/cssref/pr_font_weight.asp
+
+iframe tag in HTML
+https://www.w3schools.com/html/html_iframe.asp
